@@ -1,1 +1,2 @@
 C:\Users\kocur\source\repos\dicesimulation\vs\dicevs\x64\Debug\dicevs.exe
+C:\Users\kocur\source\repos\dicesimulation — kopia\diceroller\vs\dicevs\x64\Debug\dicevs.exe

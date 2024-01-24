@@ -1,3 +1,3 @@
 ﻿  dicevs.cpp
-C:\Users\kocur\source\repos\dicesimulation\vs\dicevs\dicevs.cpp(53,46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  dicevs.vcxproj -> C:\Users\kocur\source\repos\dicesimulation\vs\dicevs\x64\Debug\dicevs.exe
+C:\Users\kocur\source\repos\dicesimulation — kopia\diceroller\vs\dicevs\dicevs.cpp(53,46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dicevs.vcxproj -> C:\Users\kocur\source\repos\dicesimulation — kopia\diceroller\vs\dicevs\x64\Debug\dicevs.exe
